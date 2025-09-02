@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'dinda-2307051018'),
+      home: const MyHomePage(title: 'dindaayu-2307051018'),
     );
   }
 }
